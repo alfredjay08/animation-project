@@ -431,6 +431,12 @@ footer {
   width: 50px;
 }
 
+#player {
+  position: absolute;
+  top: 0;
+  visibility: hidden;
+}
+
 @keyframes ring {
   25%,
   75% {
